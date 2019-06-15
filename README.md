@@ -1,2 +1,2 @@
 # Linux
-scripts shell
+scripts shell enregistré
